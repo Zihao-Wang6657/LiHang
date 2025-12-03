@@ -3,6 +3,7 @@
 第2章 感知机  
 第3章 k近邻法  
 第4章 朴素贝叶斯法  
+第7章 支持向量机  
 
 代码参考了：  
 https://github.com/fengdu78/lihang-code    
